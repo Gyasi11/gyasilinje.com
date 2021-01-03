@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        website
+       Gyasi-Linje Website
       </h1>
       <div class="links">
         <a
